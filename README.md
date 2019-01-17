@@ -13,6 +13,7 @@
   > cd projects
   > git clone https://github.com/swe-course/saas-template.git
 ```
+* Install [helper - talan cli](https://github.com/project-talan/tln-cli)
 * Install prerequisites, Prepare local env configuration files
   ```
   sudo /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/swe-course/swec-content/master/prereq.sh)"
